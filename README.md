@@ -5,7 +5,7 @@ Code accompanying the paper: Liu, Y., Mattar, M., Behrens, T., Daw, N., & Dolan,
 ``` Simulation_SeqStrength_vs_StateDecode.m ```
 
 ## Modeling: Q-learning models
-for prioritization in non-local learing:
+for prioritization in non-local learning:
 
 need - ``` NonLocal_Learning_Need.stan ```
 
