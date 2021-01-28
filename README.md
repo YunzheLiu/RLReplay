@@ -11,7 +11,5 @@ need - ``` NonLocal_Learning_Need.stan ```
 
 gain - ``` NonLocal_Learning_Gain.stan ```  
 
-
-for replay promote RL model:
-
-``` Learning_Replay.stan ```
+<br />
+for replay promote RL model:  ``` Learning_Replay.stan ```
