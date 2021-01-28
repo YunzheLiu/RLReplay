@@ -13,4 +13,5 @@ gain - ``` NonLocal_Learning_Gain.stan ```
 
 <br />
 for replay promote RL model:
+
 ``` Learning_Replay.stan ```
