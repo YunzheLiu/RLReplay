@@ -9,7 +9,7 @@ for prioritization in non-local learing:
 
 need - ``` NonLocal_Learning_Need.stan ```
 
-gain - ``` NonLocal_Learning_Gain.stan ```
+gain - ``` NonLocal_Learning_Gain.stan ```  
 
 
 for replay promote RL model:
