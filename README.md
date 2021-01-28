@@ -8,7 +8,9 @@ Code accompanying the paper: Liu, Y., Mattar, M., Behrens, T., Daw, N., & Dolan,
 for prioritization in non-local learing:
 
 need - ``` NonLocal_Learning_Need.stan ```
+
 gain - ``` NonLocal_Learning_Gain.stan ```  
+
 <br />
 for replay promote RL model:
 ``` Learning_Replay.stan ```
