@@ -4,7 +4,7 @@ Code accompanying the paper: Liu, Y., Mattar, M., Behrens, T., Daw, N., & Dolan,
 ## Simulation: replay strength vs. state decoding accuracy
 ``` Simulation_SeqStrength_vs_StateDecode.m ```
 
-## Computational Modeling
+## Modeling: Q learning models
 for prioritization in non-local learing:
 
 need - ``` NonLocal_Learning_Need.stan ```
