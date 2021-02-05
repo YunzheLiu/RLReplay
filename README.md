@@ -1,5 +1,5 @@
 # RLReplay
-Code accompanying the paper: Liu, Y., Mattar, M., Behrens, T., Daw, N., & Dolan, R. J. (2020). Experience replay supports non-local learning. bioRxiv.
+code and data accompanying the paper: Liu, Y., Mattar, M., Behrens, T., Daw, N., & Dolan, R. J. (2020). Experience replay supports non-local learning. bioRxiv.
 
 ## Simulation: replay strength vs. state decoding accuracy
 ``` Simulation_SeqStrength_vs_StateDecode.m ```
